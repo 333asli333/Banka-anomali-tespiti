@@ -2,7 +2,7 @@
 
 Bu proje, **banka işlem verileri** üzerinden anomalileri tespit ederek potansiyel dolandırıcılık vakalarını belirlemeyi amaçlamaktadır.  
 İzolasyon mantığına göre: **şüpheli işlemler yalnızca anormal değil, aynı zamanda hikâyesi eksik işlemlerdir.**  
-Biz de bu eksik hikâyeleri yakalıyoruz.  
+Bende bu eksik hikâyeleri yakalıyorum.  
 
 ---
 
